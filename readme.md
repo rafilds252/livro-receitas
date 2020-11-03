@@ -1,5 +1,4 @@
-# Livro de receitas:man_cook:
+## Livro de Receitas:baby_chick: 
 
-Olá! Bem vindo ao meu livro de receitas:wave:
-
-- Strogonoff de frango
+- Strogonofre
+- Frango ao Molho
