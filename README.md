@@ -1,3 +1,4 @@
-# livro-receitas
-Meu livro de receitas
+## Livro de Receitas:baby_chick: 
+
 - Strogonofre
+- Frango ao Molho
